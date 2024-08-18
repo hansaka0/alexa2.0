@@ -1,0 +1,1 @@
+const owner = '94740970377@c.us'
